@@ -9,7 +9,6 @@
 📫 Feel free to reach out:
 akbarkhojayev@gmail.com
 
-LinkedIn
 
 😄 Pronouns: He/Him
 
