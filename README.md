@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @akbarkhojayev
-- 👀 I’m interested in backend development, APIs, and scalable web applications.
-- 🌱 I’m currently learning advanced Django, RESTful API design, and asynchronous programming.
-- 💞️ I’m looking to collaborate on open-source backend projects and API integrations.
-- 📫 How to reach me: akbarkhojayev@gmail.com | [LinkedIn](https://linkedin.com/in/akbarkhojayev)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy optimizing complex backend systems for performance and reliability.
+👋 Hi, I’m @akbarkhojayev
+💻 I’m passionate about backend development, building APIs, and designing scalable web applications.
+🚀 Currently, I’m deepening my knowledge in advanced Django, RESTful API architecture, and asynchronous programming.
+🤝 I’m open to collaborating on open-source backend projects, API integrations, and anything that challenges my problem-solving skills.
+📫 Feel free to reach out:
+akbarkhojayev@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I genuinely enjoy optimizing complex backend systems to make them faster, cleaner, and more reliable.
