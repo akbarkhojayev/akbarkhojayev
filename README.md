@@ -7,17 +7,22 @@
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>
+
+---
 
 ### 🚀 About Me
 
-- 🐍 Backend Developer (Python / Django / DRF)
-- 🐧 Linux lover (Ubuntu / Server / CLI)
-- ⚡ API, Microservices, Multi-tenant systems
-- 🐳 Docker / Celery / Redis / PostgreSQL
-- 🔥 Always building scalable backend systems
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
 
-💡 **Fun fact:** Kod ishlamasa → choy ichaman ☕ → yana ishlaydi 😄
+- 🐍 **Backend Developer** (Python / Django / DRF)  
+- 🐧 **Linux Enthusiast** (Ubuntu / CLI / Servers)  
+- ⚡ Building **APIs, Microservices & Multi-tenant systems**  
+- 🐳 Working with **Docker, Celery, Redis, PostgreSQL**  
+- 🔥 Passionate about **scalable backend architectures**  
+
+💡 **Fun fact:**  
+Kod ishlamasa → ☕ choy → yana ishlaydi 😄  
 
 ---
 
@@ -25,27 +30,22 @@
 
 <p align="center">
 
-  <!-- Python -->
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+  <img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+  <img title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55"/>
+  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
 
-  <!-- Linux -->
-  <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+</p>
 
-  <!-- Django -->
-  <img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
+---
 
-  <!-- PostgreSQL -->
-  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+### ⚡ Backend Flow
 
-  <!-- Redis -->
-  <img title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
-
-  <!-- Docker -->
-  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-
-  <!-- Git -->
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400"/>
 </p>
 
 ---
