@@ -1,14 +1,9 @@
 <h2 align="center">
   👋 Hi, I'm Abboskhoja — Backend Developer
 </h2>
-
----
-
 <table>
 <tr>
 <td width="55%">
-
-### 🚀 About Me
 
 Backend Developer with **1+ year of experience** building scalable **RESTful APIs** using Python, Django, and DRF.
 
@@ -30,9 +25,6 @@ Currently working as a **Mentor & Backend Developer**, where I:
 
 ---
 
-### 🧠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,django,postgres,mysql,redis,docker,git,github,postman,linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="48"/>
 </p>
