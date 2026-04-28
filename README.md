@@ -5,15 +5,14 @@
 <tr>
 <td width="55%">
 
-Backend Developer with **1+ year of experience** building scalable **RESTful APIs** using Python, Django, and DRF.
+Backend Developer & Mentor with **1.5+ years of experience** building scalable, production-ready systems using Python and Django.
 
-Focused on **clean architecture, RBAC systems, and database optimization (PostgreSQL)**.  
-Experienced with **JWT authentication** and **Docker deployments**.
+Strong expertise in **Django, DRF, and API design**, with hands-on experience in **microservices (gRPC), async systems (Celery, RabbitMQ), and real-time integrations (Aiogram)**.  
+Skilled in **PostgreSQL/MySQL database design**, **JWT-based authentication**, and **Dockerized deployments** on Linux servers (AWS).
 
-Currently working as a **Mentor & Backend Developer**, where I:
-- Mentor 15+ developers through code reviews and 1-on-1 sessions  
-- Teach REST API design, ORM, authentication & deployment  
-- Guide full project lifecycle (DB design → API → Postman docs) 
+Currently mentoring **10+ developers**, guiding them through real-world backend development — from architecture and database design to API development and deployment.
+
+Delivered **3+ production projects** and **5+ Telegram bots**, focusing on clean architecture, scalability, and performance.
 
 </td>
 
