@@ -5,14 +5,12 @@
 <tr>
 <td width="55%">
 
-Backend Developer & Mentor with **1.5+ years of experience** building scalable, production-ready systems using Python and Django.
+Backend Developer & Mentor with **1.5+ years of experience** building scalable **REST APIs** using Python, Django, and DRF.
 
-Strong expertise in **Django, DRF, and API design**, with hands-on experience in **microservices (gRPC), async systems (Celery, RabbitMQ), and real-time integrations (Aiogram)**.  
-Skilled in **PostgreSQL/MySQL database design**, **JWT-based authentication**, and **Dockerized deployments** on Linux servers (AWS).
+Experienced in **microservices (gRPC)**, **async processing (Celery, RabbitMQ)**, and **Docker-based deployments (AWS/Linux)**.  
+Strong in **PostgreSQL/MySQL design** and **JWT authentication**.
 
-Currently mentoring **10+ developers**, guiding them through real-world backend development — from architecture and database design to API development and deployment.
-
-Delivered **3+ production projects** and **5+ Telegram bots**, focusing on clean architecture, scalability, and performance.
+Mentoring **10+ developers** and delivering **production-ready systems** with a focus on clean architecture and performance.
 
 </td>
 
