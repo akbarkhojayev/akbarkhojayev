@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋 Hi, I'm ABZ — Backend Developer
+  👋 Hi, I'm Abboskhoja — Backend Developer
 </h2>
 
 ---
