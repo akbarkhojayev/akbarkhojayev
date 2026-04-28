@@ -18,10 +18,11 @@ Currently mentoring **10+ developers**, guiding them through real-world backend 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
 </td>
 </tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,django,postgres,mysql,redis,docker,git,github,postman,linux" />
+</p>
 </table>
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,django,postgres,mysql,redis,docker,git,github,postman,linux" />
-</p>
+
